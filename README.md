@@ -6,6 +6,8 @@ A detailed dashboard for visualizing call center operations, focusing on key per
 
 This project includes a Power BI dashboard that synthesizes call data from multiple sources (period from 2020-2023) to provide insights into the performance of a call center. The dashboard enables the Service Spot company to monitor metrics like average wait times, call volumes by day and time, revenue by site, and top employee performance. Through various visualizations, the company can make data-driven decisions to enhance customer service and improve operational efficiency.
 
+![Overview dashboard](https://github.com/Rubyahh/PBI---Call-Center-Data-Analysis/assets/165663742/e05de330-1082-47fd-be90-8e39e6f8b8f8)
+
 ## Getting Started
 
 ### Dependencies
